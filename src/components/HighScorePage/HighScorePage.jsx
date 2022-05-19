@@ -8,7 +8,7 @@ export default class HighScorePage extends Component {
         return(
             <div id="high-score-page">
                 <Header title="HighScores"/>
-                <div className="container content">
+                <div className="container content my-3">
                     <HighScoreForm />
                 </div>
                 <NavBar goToPage={this.props.goToPage}/>

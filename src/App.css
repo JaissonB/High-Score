@@ -1,5 +1,30 @@
+.my-3 {
+  margin-top: 1rem!important;
+  margin-bottom: 1rem!important;
+}
+
+.m-bottom {
+  margin-bottom: 150px;
+}
+
+.game-box {
+  margin-bottom: 50px;
+}
+
 .header {
   background-color: gainsboro;
   height: 100px;
   text-align: center;
+}
+
+.btn-lg {
+  padding: .5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: .3rem;
+}
+
+.btn-primary {
+  color: #FFFFFF;
+  border-color: #0d6efd;
+  background-color: #0d6efd;
 }
